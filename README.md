@@ -8,7 +8,7 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 
 ## ✨ Features
 - 🖥️ **GUI + CLI** modes for all users
-- 🎵 **Audio → MIDI conversion** (supports vocals & instruments in WAV format)
+- 🎵 **Audio → MIDI conversion** (supports vocals & instruments in **.mp3 & .ogg & .wav & .flac & .m4a** format)
 - ⚙️ **Adjustable advanced parameters**:
   - Onset threshold  
   - Frame threshold  
@@ -29,7 +29,40 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 ---
 
 ## 🚀 Getting Started
+
+<details>
+<summary>🛠️ Manual Installation</summary>
+
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourname/basicpitchgui.git
-   cd basicpitchgui
+   ```
+   git clone https://github.com/charles23333333/basic-pitch-gui.git
+   cd basic-pitch-gui
+   ···
+👉 uv is recommended for installation and running.
+
+👉 Python ≤ 3.13.0 is required, and the pre‑build exe is packaged with Python 3.10.
+2. Install dependencies
+```
+uv pip install -r requirements.txt
+```
+3.Run!
+
+Run GUI:
+```
+uv run gui.py
+```
+Run CLI:
+```
+uv run cli.py input.wav -o output_dir
+```
+</details>
+
+<details>
+<summary>📦 Prebuilt Executable</summary>
+
+👉 You can also use the prebuilt exe for one‑click run, available from the Release section.
+
+Just download the latest .exe from Releases.
+
+Double‑click to run — no Python environment required.
+</details>
