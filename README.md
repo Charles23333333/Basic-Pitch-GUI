@@ -14,7 +14,7 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
   - Frame threshold  
   - Minimum note length  
   - Frequency range
-- 🌐 **Bilingual UI**: English / 中文
+- 🌐 **Multilingual UI**: English / 中文 / 日本語
 - 💾 **Persistent settings** saved in `settings.ini`
 - 📦 **Standalone exe** for Windows
 
