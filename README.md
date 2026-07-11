@@ -31,7 +31,7 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 
 ## 🚀 Getting Started
 
-<details>
+<details open>
 <summary>🛠️ Manual Installation</summary>
 
 1. Clone the repo:
