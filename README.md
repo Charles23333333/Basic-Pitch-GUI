@@ -17,6 +17,7 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 - 🌐 **Multilingual UI**: English / 中文 / 日本語
 - 💾 **Persistent settings** saved in `settings.ini`
 - 📦 **Standalone exe** for Windows
+- ⚡ **For now, only CPU is supported**
 
 ---
 
