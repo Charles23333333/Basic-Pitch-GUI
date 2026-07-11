@@ -29,6 +29,12 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 
 ---
 
+## 📸 Screenshots
+
+### v0.4.0
+![v0.4.0 Screenshot](/v0.4.0_screenshot.png)
+
+
 ## 🚀 Getting Started
 
 <details open>
