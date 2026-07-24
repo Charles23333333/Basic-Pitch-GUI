@@ -1,4 +1,4 @@
-> **Archived** — This project has been archived. Development has moved to [Audio 2 MIDI](../audio-2-midi).
+> ## ⚠️ Archived — This project has been archived. Development has moved to [Audio 2 MIDI](../audio-2-midi).
 
 # Basic-Pitch-GUI 🎶➡️🎹Audio to MIDI converter powered by Basic Pitch, perfect for VOCALOID and etc.
 
