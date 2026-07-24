@@ -1,6 +1,6 @@
-# Basic-Pitch-GUI 🎶➡️🎹
+> **Archived** — This project has been archived. Development has moved to [Audio 2 MIDI](../audio-2-midi).
 
-Audio to MIDI converter powered by Basic Pitch, perfect for VOCALOID and etc.
+# Basic-Pitch-GUI 🎶➡️🎹Audio to MIDI converter powered by Basic Pitch, perfect for VOCALOID and etc.
 
 
 Run locally, convert audio to MIDI with ease!  
@@ -53,9 +53,9 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 <summary>🛠️ Run from Source</summary>
 
 
-1. Clone the repo:
+1. Clone this repo:
    ```
-   git clone https://github.com/charles23333333/basic-pitch-gui.git
+   git clone https://github.com/xe-i23333/basic-pitch-gui.git
    cd basic-pitch-gui
    ```
 👉 uv is recommended for installation and running in venv.
