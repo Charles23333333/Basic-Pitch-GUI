@@ -116,7 +116,7 @@ python cli.py input.wav -o output_dir
 <summary>📦 Prebuilt Executable</summary>
 
 
-👉 You can also use the prebuilt exe for one‑click run, available from the Release section.
+👉 You can also use the prebuilt exe for one‑click run, available from the [Releases](../../releases/latest).
 
 
 Just download the latest .exe from Releases.
