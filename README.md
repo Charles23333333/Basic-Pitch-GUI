@@ -48,7 +48,8 @@ Powered by [Basic Pitch](https://github.com/spotify/basic-pitch), this project o
 
 **Create venv (Optional)**
 
-👉 Python ≤ 3.13.0 is required, and the pre‑build exe is packaged with Python 3.10.
+👉 Python ≤ 3.13.0 is required, and the pre‑build exe is packaged with Python 3.10
+
 
 2. Install dependencies
 > Use uv venv
